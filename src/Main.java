@@ -1,5 +1,5 @@
 /*
- * @Burak Korkmaz - 2021400189 - 16.04.2023
+ * @Burak Korkmaz  - 16.04.2023
  * The program runs in this file by calling the environment class.
  */
 import java.awt.Font;
@@ -12,7 +12,7 @@ import java.awt.event.KeyEvent;
  * If "Y" pressed, the environment object is rebuilt and calls the environment class to run the game again
  * If "N" pressed, it exits the program.
  */
-public class Burak_Korkmaz {
+public class Main {
     public static void main(String args[]){
 
         Environment env = new Environment(new Player());

@@ -1,5 +1,5 @@
 /*
- * @Burak Korkmaz - 2021400189 - 16.04.2023
+ * @Burak Korkmaz - 16.04.2023
  * Environment class contains the run function and condition functions
  */
 
